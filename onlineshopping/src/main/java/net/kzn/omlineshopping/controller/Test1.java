@@ -1,5 +1,5 @@
 package net.kzn.omlineshopping.controller;
 
-public class test {
+public class Test11 {
 
 }
