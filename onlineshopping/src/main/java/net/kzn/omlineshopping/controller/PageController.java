@@ -21,7 +21,7 @@ public class PageController {
 
 	@Autowired
 	CategoryDAO categoryDAO;
-
+//
 	@Autowired
 	ProductDAO productDAO;
 
